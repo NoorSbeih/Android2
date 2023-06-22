@@ -4,6 +4,8 @@
     <string name="choose_which_unit">Choose which unit</string>
     <string name="book_pdf">Book PDF:</string>
     <string name="mark_as_complete">Done!</string>
+    <string name="cap">cap</string>
+    <string name="english_midterm_guide">English Midterm Guide</string>
 
 
 </resources>

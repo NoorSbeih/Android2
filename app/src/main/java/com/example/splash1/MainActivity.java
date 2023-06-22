@@ -12,7 +12,7 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-    private Animation top,bottom,fadein,fadeout,leftright;
+    private Animation top,bottom;
     private ImageView img;
     private TextView txt;
     @Override
