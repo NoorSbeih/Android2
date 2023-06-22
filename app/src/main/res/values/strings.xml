@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="english_for_palestine_5a_guide">5th Grade english Midterm study guide</string>
+    <string name="choose_which_unit">Choose which unit</string>
+    <string name="book_pdf">Book PDF:</string>
+    <string name="mark_as_complete">Done!</string>
+
+
+</resources>
